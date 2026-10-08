@@ -1,0 +1,42 @@
+{
+  "arxiv_query": "(abs:\"power grid\" OR abs:\"energy forecasting\" OR abs:\"renewable energy\" OR abs:\"smart grid\") AND (abs:\"machine learning\" OR abs:\"language model\" OR abs:\"deep learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "energy llm",
+        "power grid reinforcement learning"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "energy forecasting machine learning",
+        "solar forecasting"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "energy data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "energy analytics dashboard",
+        "smart meter analytics"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "energy consumption analysis",
+        "electricity data analysis"
+      ]
+    }
+  ]
+}
