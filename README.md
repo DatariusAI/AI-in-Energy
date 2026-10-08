@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **load and renewables for
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Lists fill in after the first daily refresh._
+_Last refreshed: 2026-10-08 14:36 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,42 +21,86 @@ _Lists fill in after the first daily refresh._
 Newest papers on arXiv for this topic, newest first.
 
 <!-- ARXIV:START -->
-_Loading on first refresh._
+| Date | Paper | Authors |
+|---|---|---|
+| 2026-10-02 | [An Analytical Review of Model Order Reduction Methodologies of Converter-Dominated Power Systems for Stability Studies](https://arxiv.org/abs/2610.03059) | Goran Grdenić et al. |
+| 2026-09-26 | [Beyond Scripted Search: Sample-Efficient Reward Discovery via Agentic Black-box Optimization](https://arxiv.org/abs/2609.32394) | Minghao Li et al. |
+| 2026-09-23 | [Repairability of Inexact Solvers in Recursive State Estimation with Machine Learning](https://arxiv.org/abs/2609.28425) | Yanjun Ji et al. |
+| 2026-09-22 | [Label-Efficient Learning for Ground-Based Sky-Image Classification: A Benchmark of Transfer Learning, Active Learning, and Pseudo-Labeling on GCD](https://arxiv.org/abs/2609.26631) | Esther Bou Dagher et al. |
+| 2026-09-22 | [Privacy-Preserving Coordinated Operation of Power Grids and AI Data Centers: A Checkpoint-Aware Three-Phase Scheme](https://arxiv.org/abs/2609.26365) | Ziang Liu et al. |
+| 2026-09-20 | [OrderFusion+: Probabilistic Buy--Sell Price Trajectory Forecasting in Intraday Electricity Markets](https://arxiv.org/abs/2609.23598) | Runyao Yu et al. |
+| 2026-09-16 | [Designing Grid-Aware Dynamic Specifications for Large Data Center Loads](https://arxiv.org/abs/2609.18888) | Ashutossh Gupta et al. |
+| 2026-09-15 | [LLM-Guided Ontology-Driven Knowledge Graph Construction from Unstructured Text](https://arxiv.org/abs/2609.31663) | Abdelhadi Belfadel et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- AI:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) | TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and detect  | Python | 620 | 2026-09-29 |
+| [mlco2/ecologits](https://github.com/mlco2/ecologits) | 🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs. | Python | 345 | 2026-09-29 |
+| [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to | Python | 225 | 2026-10-06 |
+| [NatLabRockies/PowerGridworld](https://github.com/NatLabRockies/PowerGridworld) | PowerGridworld provides users with a lightweight, modular, and customizable framework for creating power-systems-focused, multi-agent Gym en | Python | 183 | 2026-04-25 |
+| [martinargalas/HA_Advanced](https://github.com/martinargalas/HA_Advanced) | Advanced Home Assistant configuration with custom Lovelace Minimalist dashboards (tablet & mobile), automations, Zigbee, energy monitoring,  | Python | 81 | 2026-05-02 |
+| [open-energy-transition/pypsa-mcp](https://github.com/open-energy-transition/pypsa-mcp) | PyPSA MCP: PyPSA Energy Modeling for LLMs | Python | 72 | 2026-03-20 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- ML:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) | SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatG | Python | 291 | 2026-10-07 |
+| [yuhao-nie/Stanford-solar-forecasting-dataset](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) | Stanford sky images and PV power generation dataset for solar forecasting related research and applications | Jupyter Notebook | 254 | 2026-10-07 |
+| [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 251 | 2026-09-11 |
+| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 170 | 2026-10-08 |
+| [rany2/ha-open-meteo-solar-forecast](https://github.com/rany2/ha-open-meteo-solar-forecast) | Home Assistant Open-Meteo Solar Forecast Integration | Python | 164 | 2026-09-15 |
+| [HUANGKUN-neutrino/solar-ai-gis-platform](https://github.com/HUANGKUN-neutrino/solar-ai-gis-platform) | AI-powered photovoltaic GIS prospecting and generation forecasting platform | Python | 164 | 2026-05-09 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DS:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [fneum/data-science-for-esm](https://github.com/fneum/data-science-for-esm) |  | Jupyter Notebook | 134 | 2026-10-05 |
+| [sacyad1/data-science--Energy-consumption-analysis](https://github.com/sacyad1/data-science--Energy-consumption-analysis) |  | Jupyter Notebook | 14 | 2026-04-15 |
+| [moustafa100/Data-Science-Advanced-Analytics](https://github.com/moustafa100/Data-Science-Advanced-Analytics) | PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The p | Python | 13 | 2025-11-15 |
+| [moosmann/matlab](https://github.com/moosmann/matlab) | Data reconstruction and analysis tools for tomography data acquired at the P05 Imaging Beamline (IBL) and the P07 High-Energy Material Scien | MATLAB | 10 | 2026-08-24 |
+| [MusaIslamFahad/wti-oil-price-forecasting](https://github.com/MusaIslamFahad/wti-oil-price-forecasting) | A full end to end data science project analysing 56 years of WTI crude oil prices from exploratory analysis through geopolitical event quant | Jupyter Notebook | 8 | 2026-05-25 |
+| [OpenGammaProject/NPES-JSON](https://github.com/OpenGammaProject/NPES-JSON) | 📂 Novel JSON Schema targeted at storing nuclear physics energy spectra (NPES) data. | HTML | 6 | 2026-06-17 |
 <!-- DS:END -->
 
 ## 📊 Latest data analytics projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DA:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [Aliipou/Fingrid-dashboard](https://github.com/Aliipou/Fingrid-dashboard) | Real-time Finnish electricity market monitoring platform — live grid data, analytics, and visualization powered by Fingrid Open Data API | Python | 7 | 2026-09-15 |
+| [SYM-Lindh/Costlify](https://github.com/SYM-Lindh/Costlify) | Advanced energy analytics dashboard for Tibber users. Runs locally in your browser with your own API token. | HTML | 6 | 2026-08-10 |
+| [sztistvan/BESS-Analytics](https://github.com/sztistvan/BESS-Analytics) | Battery Energy Storage System (BESS) sizing and simulation tool for 15-minute smart meter and solar data. | JavaScript | 6 | 2026-02-10 |
+| [mrsameer12082006-spec/campus-energy-dashboard-Sameer-Mishra](https://github.com/mrsameer12082006-spec/campus-energy-dashboard-Sameer-Mishra) | A complete energy-analytics pipeline that reads raw electricity data from different campus buildings, cleans and aggregates it, and visualiz | Python | 5 | 2025-12-03 |
+| [Venkatesh9372/World-Wild-Energy-Consumption-SQL](https://github.com/Venkatesh9372/World-Wild-Energy-Consumption-SQL) | A data-driven SQL project analyzing worldwide energy consumption, CO₂ emissions, GDP, and population trends. Includes a fully designed SQL s |  | 5 | 2025-11-21 |
+| [AnkitSaini491/Hydrogen-Train-Analytics-Dashboard-](https://github.com/AnkitSaini491/Hydrogen-Train-Analytics-Dashboard-) | Professional Hydrogen Train Analytics Dashboard built using Python, Pandas & Matplotlib featuring KPI cards, hydrogen fuel analytics, CO₂ em | Python | 4 | 2026-07-20 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DAN:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [catalyst-cooperative/pudl](https://github.com/catalyst-cooperative/pudl) | The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and j | Python | 610 | 2026-10-08 |
+| [pierre-haessig/ausgrid-solar-data](https://github.com/pierre-haessig/ausgrid-solar-data) | Personal analysis of the "Solar home electricity" dataset from Ausgrid | Jupyter Notebook | 77 | 2026-05-27 |
+| [m4rz910/NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) | Access data, statistics, and visualizations for New York's electricity grid. | Jupyter Notebook | 67 | 2026-07-23 |
+| [DrozmotiX/ioBroker.sourceanalytix](https://github.com/DrozmotiX/ioBroker.sourceanalytix) | Detailed analysis of your Energy, gas and liquid consumptions | JavaScript | 66 | 2026-09-29 |
+| [jpawlowski/hass.tibber_prices](https://github.com/jpawlowski/hass.tibber_prices) | The most comprehensive Tibber price integration for Home Assistant. Get 100+ sensors with quarter-hourly precision, intelligent best/peak pr | Python | 54 | 2026-10-05 |
+| [crt26/PQC-LEO](https://github.com/crt26/PQC-LEO) | PQC-LEO is a comprehensive benchmarking framework for Post-Quantum Cryptography (PQC) research. It automates setup, testing, and analysis of | Shell | 50 | 2026-10-08 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
