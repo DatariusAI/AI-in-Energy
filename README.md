@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **load and renewables for
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-19 04:38 UTC_
+_Last refreshed: 2026-10-20 04:35 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,6 +23,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-19 | [PhyPro-FM: A Physics and Prompt-Guided Graph Foundation Model for Contingency Analysis](https://arxiv.org/abs/2610.26351) | Xu Yang et al. |
 | 2026-10-16 | [Lyapunov Exponents in Power Systems: A Survey of Theory and Applications in Stability, Control, Forecasting, and Protection](https://arxiv.org/abs/2610.23809) | Mohammad Almomani et al. |
 | 2026-10-15 | [AI-Driven Disaster Response and Displacement Monitoring](https://arxiv.org/abs/2610.21482) | Noora Al-Emadi et al. |
 | 2026-10-13 | [PING: physics informed graph neural network for advection-diffusion processes with applications to solar power forecasting](https://arxiv.org/abs/2610.18280) | Jelena Simeunović et al. |
@@ -30,7 +31,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-10-10 | [Sensor-Aware Joint Data Fusion and State Estimation under Sparse Multi-rate Distribution Grid Sensing](https://arxiv.org/abs/2610.15156) | Pooja Algikar et al. |
 | 2026-10-09 | [Decision-Focused Learning for Cyber-Physical Risk-Aware Power Grid Operations](https://arxiv.org/abs/2610.13853) | Ayesha Siddiqua Dina et al. |
 | 2026-10-08 | [ROAM: Reinforcement Learning Optimized Adaptive Moving Target Defense for Smart Grid](https://arxiv.org/abs/2610.12730) | Mohammad Zakaria Haider et al. |
-| 2026-10-02 | [An Analytical Review of Model Order Reduction Methodologies of Converter-Dominated Power Systems for Stability Studies](https://arxiv.org/abs/2610.03059) | Goran Grdenić et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) | TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and detect  | Python | 624 | 2026-10-15 |
+| [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) | TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and detect  | Python | 624 | 2026-10-19 |
 | [mlco2/ecologits](https://github.com/mlco2/ecologits) | 🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs. | Python | 348 | 2026-10-14 |
 | [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to | Python | 229 | 2026-10-19 |
-| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 219 | 2026-10-18 |
+| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 220 | 2026-10-19 |
 | [NatLabRockies/PowerGridworld](https://github.com/NatLabRockies/PowerGridworld) | PowerGridworld provides users with a lightweight, modular, and customizable framework for creating power-systems-focused, multi-agent Gym en | Python | 184 | 2026-04-25 |
-| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 91 | 2026-10-17 |
+| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 107 | 2026-10-17 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -54,9 +54,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) | SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatG | Python | 302 | 2026-10-16 |
-| [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 267 | 2026-09-11 |
+| [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 270 | 2026-09-11 |
 | [yuhao-nie/Stanford-solar-forecasting-dataset](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) | Stanford sky images and PV power generation dataset for solar forecasting related research and applications | Jupyter Notebook | 257 | 2026-10-07 |
-| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 173 | 2026-10-16 |
+| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 173 | 2026-10-20 |
 | [rany2/ha-open-meteo-solar-forecast](https://github.com/rany2/ha-open-meteo-solar-forecast) | Home Assistant Open-Meteo Solar Forecast Integration | Python | 166 | 2026-09-15 |
 | [HUANGKUN-neutrino/solar-ai-gis-platform](https://github.com/HUANGKUN-neutrino/solar-ai-gis-platform) | AI-powered photovoltaic GIS prospecting and generation forecasting platform | Python | 164 | 2026-05-09 |
 <!-- ML:END -->
@@ -95,12 +95,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [catalyst-cooperative/pudl](https://github.com/catalyst-cooperative/pudl) | The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and j | Python | 610 | 2026-10-18 |
+| [catalyst-cooperative/pudl](https://github.com/catalyst-cooperative/pudl) | The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and j | Python | 610 | 2026-10-20 |
 | [pierre-haessig/ausgrid-solar-data](https://github.com/pierre-haessig/ausgrid-solar-data) | Personal analysis of the "Solar home electricity" dataset from Ausgrid | Jupyter Notebook | 78 | 2026-05-27 |
 | [m4rz910/NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) | Access data, statistics, and visualizations for New York's electricity grid. | Jupyter Notebook | 67 | 2026-07-23 |
 | [DrozmotiX/ioBroker.sourceanalytix](https://github.com/DrozmotiX/ioBroker.sourceanalytix) | Detailed analysis of your Energy, gas and liquid consumptions | JavaScript | 65 | 2026-10-13 |
-| [jpawlowski/hass.tibber_prices](https://github.com/jpawlowski/hass.tibber_prices) | The most comprehensive Tibber price integration for Home Assistant. Get 100+ sensors with quarter-hourly precision, intelligent best/peak pr | Python | 57 | 2026-10-18 |
-| [crt26/PQC-LEO](https://github.com/crt26/PQC-LEO) | PQC-LEO is a comprehensive benchmarking framework for Post-Quantum Cryptography (PQC) research. It automates setup, testing, and analysis of | Shell | 50 | 2026-10-18 |
+| [jpawlowski/hass.tibber_prices](https://github.com/jpawlowski/hass.tibber_prices) | The most comprehensive Tibber price integration for Home Assistant. Get 100+ sensors with quarter-hourly precision, intelligent best/peak pr | Python | 59 | 2026-10-19 |
+| [crt26/PQC-LEO](https://github.com/crt26/PQC-LEO) | PQC-LEO is a comprehensive benchmarking framework for Post-Quantum Cryptography (PQC) research. It automates setup, testing, and analysis of | Shell | 50 | 2026-10-19 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
