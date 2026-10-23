@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **load and renewables for
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-22 04:35 UTC_
+_Last refreshed: 2026-10-23 04:36 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -40,11 +40,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) | TimeCopilot: the GenAI Forecasting Agent. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and detect  | Python | 626 | 2026-10-20 |
-| [mlco2/ecologits](https://github.com/mlco2/ecologits) | 🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs. | Python | 348 | 2026-10-14 |
-| [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to | Python | 230 | 2026-10-19 |
-| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 222 | 2026-10-21 |
+| [mlco2/ecologits](https://github.com/mlco2/ecologits) | 🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs. | Python | 349 | 2026-10-22 |
+| [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to | Python | 230 | 2026-10-22 |
+| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 224 | 2026-10-22 |
 | [NatLabRockies/PowerGridworld](https://github.com/NatLabRockies/PowerGridworld) | PowerGridworld provides users with a lightweight, modular, and customizable framework for creating power-systems-focused, multi-agent Gym en | Python | 185 | 2026-04-25 |
-| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 122 | 2026-10-17 |
+| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 129 | 2026-10-17 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -53,10 +53,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) | SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatG | Python | 303 | 2026-10-16 |
+| [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) | SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatG | Python | 304 | 2026-10-16 |
 | [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 275 | 2026-09-11 |
-| [yuhao-nie/Stanford-solar-forecasting-dataset](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) | Stanford sky images and PV power generation dataset for solar forecasting related research and applications | Jupyter Notebook | 258 | 2026-10-07 |
-| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 175 | 2026-10-22 |
+| [yuhao-nie/Stanford-solar-forecasting-dataset](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) | Stanford sky images and PV power generation dataset for solar forecasting related research and applications | Jupyter Notebook | 259 | 2026-10-07 |
+| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 175 | 2026-10-23 |
 | [rany2/ha-open-meteo-solar-forecast](https://github.com/rany2/ha-open-meteo-solar-forecast) | Home Assistant Open-Meteo Solar Forecast Integration | Python | 168 | 2026-09-15 |
 | [HUANGKUN-neutrino/solar-ai-gis-platform](https://github.com/HUANGKUN-neutrino/solar-ai-gis-platform) | AI-powered photovoltaic GIS prospecting and generation forecasting platform | Python | 164 | 2026-05-09 |
 <!-- ML:END -->
@@ -67,7 +67,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [fneum/data-science-for-esm](https://github.com/fneum/data-science-for-esm) |  | Jupyter Notebook | 135 | 2026-10-12 |
+| [fneum/data-science-for-esm](https://github.com/fneum/data-science-for-esm) |  | Jupyter Notebook | 136 | 2026-10-12 |
 | [sacyad1/data-science--Energy-consumption-analysis](https://github.com/sacyad1/data-science--Energy-consumption-analysis) |  | Jupyter Notebook | 14 | 2026-04-15 |
 | [moustafa100/Data-Science-Advanced-Analytics](https://github.com/moustafa100/Data-Science-Advanced-Analytics) | PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The p | Python | 13 | 2025-11-15 |
 | [moosmann/matlab](https://github.com/moosmann/matlab) | Data reconstruction and analysis tools for tomography data acquired at the P05 Imaging Beamline (IBL) and the P07 High-Energy Material Scien | MATLAB | 10 | 2026-08-24 |
