@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **load and renewables for
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-07 04:26 UTC_
+_Last refreshed: 2026-11-08 04:26 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -41,9 +41,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) | TimeCopilot: the Agentic Forecasting Framework. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and d | Python | 635 | 2026-10-27 |
 | [mlco2/ecologits](https://github.com/mlco2/ecologits) | 🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs. | Python | 361 | 2026-11-06 |
-| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 283 | 2026-11-03 |
+| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 292 | 2026-11-03 |
 | [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to | Python | 235 | 2026-10-30 |
-| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 231 | 2026-11-06 |
+| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 233 | 2026-11-07 |
 | [NatLabRockies/PowerGridworld](https://github.com/NatLabRockies/PowerGridworld) | PowerGridworld provides users with a lightweight, modular, and customizable framework for creating power-systems-focused, multi-agent Gym en | Python | 188 | 2026-04-25 |
 <!-- AI:END -->
 
@@ -54,9 +54,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) | SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatG | Python | 315 | 2026-11-04 |
-| [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 283 | 2026-09-11 |
+| [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 285 | 2026-09-11 |
 | [yuhao-nie/Stanford-solar-forecasting-dataset](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) | Stanford sky images and PV power generation dataset for solar forecasting related research and applications | Jupyter Notebook | 262 | 2026-10-07 |
-| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 180 | 2026-11-06 |
+| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 180 | 2026-11-07 |
 | [rany2/ha-open-meteo-solar-forecast](https://github.com/rany2/ha-open-meteo-solar-forecast) | Home Assistant Open-Meteo Solar Forecast Integration | Python | 170 | 2026-09-15 |
 | [openclimatefix/open-source-quartz-solar-forecast](https://github.com/openclimatefix/open-source-quartz-solar-forecast) | Open Source Solar Site Level Forecast | Jupyter Notebook | 161 | 2026-09-06 |
 <!-- ML:END -->
@@ -95,10 +95,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [catalyst-cooperative/pudl](https://github.com/catalyst-cooperative/pudl) | The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and j | Python | 614 | 2026-11-06 |
+| [catalyst-cooperative/pudl](https://github.com/catalyst-cooperative/pudl) | The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and j | Python | 615 | 2026-11-07 |
 | [pierre-haessig/ausgrid-solar-data](https://github.com/pierre-haessig/ausgrid-solar-data) | Personal analysis of the "Solar home electricity" dataset from Ausgrid | Jupyter Notebook | 79 | 2026-05-27 |
 | [m4rz910/NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) | Access data, statistics, and visualizations for New York's electricity grid. | Jupyter Notebook | 67 | 2026-07-23 |
-| [DrozmotiX/ioBroker.sourceanalytix](https://github.com/DrozmotiX/ioBroker.sourceanalytix) | Detailed analysis of your Energy, gas and liquid consumptions | JavaScript | 66 | 2026-11-01 |
+| [DrozmotiX/ioBroker.sourceanalytix](https://github.com/DrozmotiX/ioBroker.sourceanalytix) | Detailed analysis of your Energy, gas and liquid consumptions | JavaScript | 66 | 2026-11-07 |
 | [crt26/PQC-LEO](https://github.com/crt26/PQC-LEO) | PQC-LEO is a comprehensive benchmarking framework for Post-Quantum Cryptography (PQC) research. It automates setup, testing, and analysis of | Shell | 50 | 2026-10-19 |
 | [abebe198921-oss/3-days-battery-consumption-data](https://github.com/abebe198921-oss/3-days-battery-consumption-data) | This repository contains data for modeling smartphone battery consumption over 72 hours. The dataset includes power usage based on screen br |  | 23 | 2026-01-30 |
 <!-- DAN:END -->
