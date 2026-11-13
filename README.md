@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **load and renewables for
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-12 04:26 UTC_
+_Last refreshed: 2026-11-13 04:26 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,12 +39,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) | TimeCopilot: the Agentic Forecasting Framework. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and d | Python | 638 | 2026-11-10 |
+| [TimeCopilot/timecopilot](https://github.com/TimeCopilot/timecopilot) | TimeCopilot: the Agentic Forecasting Framework. Built on LLMs and Time Series Foundation Models, it lets you forecast, cross-validate, and d | Python | 640 | 2026-11-10 |
 | [mlco2/ecologits](https://github.com/mlco2/ecologits) | 🌱 EcoLogits tracks the energy consumption and environmental footprint of using generative AI models through APIs. | Python | 364 | 2026-11-06 |
-| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 343 | 2026-11-03 |
-| [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to | Python | 237 | 2026-11-11 |
-| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 236 | 2026-11-11 |
-| [NatLabRockies/PowerGridworld](https://github.com/NatLabRockies/PowerGridworld) | PowerGridworld provides users with a lightweight, modular, and customizable framework for creating power-systems-focused, multi-agent Gym en | Python | 188 | 2026-11-11 |
+| [datamllab/OpenEBFM](https://github.com/datamllab/OpenEBFM) | Open-source code for training and scaling up energy-based foundation models. | Python | 351 | 2026-11-03 |
+| [Power-Agent/PowerMCP](https://github.com/Power-Agent/PowerMCP) | PowerMCP is an open-source collection of MCP servers for power system software like PowerWorld, PSSE and OpenDSS. These tools enable LLMs to | Python | 237 | 2026-11-12 |
+| [SikamikanikoBG/homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | Self-hosted homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, energy costs. Read-only MCP server so AI agents can ex | Python | 236 | 2026-11-12 |
+| [NatLabRockies/PowerGridworld](https://github.com/NatLabRockies/PowerGridworld) | PowerGridworld provides users with a lightweight, modular, and customizable framework for creating power-systems-focused, multi-agent Gym en | Python | 188 | 2026-11-13 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -54,9 +54,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Zara-Toorox/Solar-Forecast-ML](https://github.com/Zara-Toorox/Solar-Forecast-ML) | SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatG | Python | 317 | 2026-11-11 |
-| [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 291 | 2026-09-11 |
+| [ReikanYsora/Helios-Forecast](https://github.com/ReikanYsora/Helios-Forecast) | An accurate, self-learning solar production forecast for Home Assistant | Python | 292 | 2026-09-11 |
 | [yuhao-nie/Stanford-solar-forecasting-dataset](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) | Stanford sky images and PV power generation dataset for solar forecasting related research and applications | Jupyter Notebook | 263 | 2026-10-07 |
-| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 182 | 2026-11-11 |
+| [OpenSTEF/openstef](https://github.com/OpenSTEF/openstef) | Automated Machine Learning pipelines. Builds the Open Short Term Energy Forecasting package. | Python | 182 | 2026-11-12 |
 | [rany2/ha-open-meteo-solar-forecast](https://github.com/rany2/ha-open-meteo-solar-forecast) | Home Assistant Open-Meteo Solar Forecast Integration | Python | 170 | 2026-09-15 |
 | [openclimatefix/open-source-quartz-solar-forecast](https://github.com/openclimatefix/open-source-quartz-solar-forecast) | Open Source Solar Site Level Forecast | Jupyter Notebook | 161 | 2026-09-06 |
 <!-- ML:END -->
@@ -95,7 +95,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [catalyst-cooperative/pudl](https://github.com/catalyst-cooperative/pudl) | The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and j | Python | 616 | 2026-11-11 |
+| [catalyst-cooperative/pudl](https://github.com/catalyst-cooperative/pudl) | The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and j | Python | 616 | 2026-11-12 |
 | [pierre-haessig/ausgrid-solar-data](https://github.com/pierre-haessig/ausgrid-solar-data) | Personal analysis of the "Solar home electricity" dataset from Ausgrid | Jupyter Notebook | 79 | 2026-05-27 |
 | [m4rz910/NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) | Access data, statistics, and visualizations for New York's electricity grid. | Jupyter Notebook | 67 | 2026-07-23 |
 | [DrozmotiX/ioBroker.sourceanalytix](https://github.com/DrozmotiX/ioBroker.sourceanalytix) | Detailed analysis of your Energy, gas and liquid consumptions | JavaScript | 66 | 2026-11-11 |
